@@ -13,3 +13,6 @@ py temp.py add <channel_id> <channel_name>
 #
 to remove channels:
 py temp.py remove
+
+
+# new comment added by manith kumar
